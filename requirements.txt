@@ -1,0 +1,10 @@
+Flask
+torch
+torchvision
+transformers
+opencv-python
+Pillow
+numpy
+datasets
+tensorflow
+efficientnet

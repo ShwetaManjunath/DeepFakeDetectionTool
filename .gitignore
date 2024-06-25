@@ -1,0 +1,12 @@
+# Ignore images
+*.jpg
+*.jpeg
+*.png
+
+# Ignore videos
+# *.mp4
+*.avi
+
+# Ignore entire directories
+/videos/
+/images/
